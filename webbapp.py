@@ -5,5 +5,4 @@ import datetime as dt
 
 
 st.title('BON ANNIVERSAIRE MAXENCE')
-st.write('')
 #st.header('header')
